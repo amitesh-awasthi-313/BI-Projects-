@@ -40,7 +40,7 @@ Whether you're a fellow analyst, a hiring manager, or a BI enthusiast, this repo
 ## 📬 Let’s Connect
 If you have feedback, want to collaborate, or just want to geek out about data, feel free to reach out:
 
-- [LinkedIn]([https://www.linkedin.com/in/amitesh-awasthi](https://www.linkedin.com/in/amitesh-awasthi-7aa278228/))  
+- [LinkedIn]([www.linkedin.com/in/amitesh-awasthi](https://www.linkedin.com/in/amitesh-awasthi-7aa278228/))  
 - [Email](mailto:amiteshawasthi7@gmail.com)
 
 Thanks for visiting — and don’t forget to ⭐ star the repo if you find it valuable!
